@@ -17,10 +17,10 @@ You can import artworks in three ways:
 
 **The Metropolitan Museum of Art:**
 
-The Command Palette options are:
-- Random artwork (The Met) (SmartBlock command: <%RANDOMMET%>)
-- Random artwork by department (The Met) (SmartBlock command: <%RANDOMMETD%>)
-- Random artwork by search term (The Met) (SmartBlock command: <%RANDOMMETS%>)
+Trigger using :
+- Command Palette option 'Random artwork (The Met)' or SmartBlock command <%RANDOMMET%>
+- Command Palette option 'Random artwork by department (The Met)' or SmartBlock command <%RANDOMMETD%>
+- Command Palette option 'Random artwork by search term (The Met)' or SmartBlock command <%RANDOMMETS%>
 
 **The Art Institute of Chicago:**
 
